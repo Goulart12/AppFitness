@@ -1,0 +1,6 @@
+﻿services:
+  appfitness:
+    image: appfitness
+    build:
+      context: .
+      dockerfile: AppFitness/Dockerfile

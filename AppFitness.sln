@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFitness", "AppFitness\AppFitness.csproj", "{DA08B03E-D7C1-4342-98A8-B664753ABEC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{15495A17-81AD-474B-82D3-92B1F40CAFA9}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA08B03E-D7C1-4342-98A8-B664753ABEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA08B03E-D7C1-4342-98A8-B664753ABEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA08B03E-D7C1-4342-98A8-B664753ABEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA08B03E-D7C1-4342-98A8-B664753ABEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
